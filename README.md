@@ -1,4 +1,4 @@
-# Section2-Project
+# ABC Bank customer churn rate analysis
 
 ## 개요 및 문제 설정
 
